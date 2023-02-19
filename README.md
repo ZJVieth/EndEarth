@@ -16,4 +16,4 @@ Does it make sense? Hardly.
 Is it fun. Maybe briefly.
 Is it a decent demonstration of using algorithms to achieve a goal? I hope so.
 
-You can download the game at [www.zjvieht.net](https://drive.google.com/file/d/1t1B5PESDREsu27PhsmhwoC0i8qkTanE9/view?usp=sharing).
+You can download the game at [Google Drive](https://drive.google.com/file/d/1t1B5PESDREsu27PhsmhwoC0i8qkTanE9/view?usp=sharing).
